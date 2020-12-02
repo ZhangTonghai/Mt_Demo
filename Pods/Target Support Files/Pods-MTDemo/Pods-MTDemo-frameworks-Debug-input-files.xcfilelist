@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-MTDemo/Pods-MTDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/MessageThrottle/MessageThrottle.framework
+${BUILT_PRODUCTS_DIR}/SensorsAnalyticsSDK/SensorsAnalyticsSDK.framework

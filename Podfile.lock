@@ -1,0 +1,22 @@
+PODS:
+  - MessageThrottle (1.4.0)
+  - SensorsAnalyticsSDK (2.2.2):
+    - SensorsAnalyticsSDK/Core (= 2.2.2)
+  - SensorsAnalyticsSDK/Core (2.2.2)
+
+DEPENDENCIES:
+  - MessageThrottle
+  - SensorsAnalyticsSDK
+
+SPEC REPOS:
+  https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git:
+    - MessageThrottle
+    - SensorsAnalyticsSDK
+
+SPEC CHECKSUMS:
+  MessageThrottle: e1b7c60f93c0b94f3ec5e417807aedd032b4cf24
+  SensorsAnalyticsSDK: 104a681e53bde400bb9531d01411a48744e354aa
+
+PODFILE CHECKSUM: 41e4d9c95b9089f97d6e9cc409cf4f9f986d02f4
+
+COCOAPODS: 1.10.0
